@@ -421,7 +421,7 @@ export const AboutMe = () => {
 					</p>
 					<div style={{ marginTop: '2rem' }}>
 						<a
-							href='/path-to-your-cv.pdf'
+							href='https://drive.google.com/file/d/1rcnFQIhP_MrVO42R4GEM5iNzsMR1syBb/view?usp=sharing'
 							target='_blank'
 							rel='noopener noreferrer'
 							style={{
