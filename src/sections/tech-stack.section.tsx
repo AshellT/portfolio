@@ -124,7 +124,7 @@ export const TechStack = () => {
 			<div>
 				<SectionTitle
 					title='Tech'
-					subTitle='SET'
+					subTitle='STACK'
 				/>
 			</div>
 		</section>
